@@ -1,4 +1,4 @@
-# Basic Web3 Minit Website
+# Basic Web3 Mint Website
 
 This project demostrates a sinple Web3 minting website using React, Hardhat, and Ethers. It comes with a mint example contract, a script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
